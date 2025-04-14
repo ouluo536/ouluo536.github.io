@@ -1,0 +1,11 @@
+---
+title: "Curriculum Vitae"
+---
+
+# 📄 My CV
+
+Here is a downloadable version of my current CV. It summarizes my academic background, professional experiences, and technical skills.
+
+👉 [Click here to download my resume](resume.pdf)
+
+If you would like to know more, feel free to reach out through my [contact page](contact.qmd).

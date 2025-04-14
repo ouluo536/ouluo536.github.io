@@ -1,0 +1,71 @@
+---
+title: "Projects"
+format:
+  html:
+    toc: false
+---
+
+# 💼 Selected Projects
+
+Below is a selection of academic and analytical projects I have completed at Boston University and the University of Nottingham. These projects reflect my interests in business analytics, strategic thinking, and ethical research.
+
+---
+
+### 💡 Job Postings Analysis with Spark
+
+This project involved analyzing a large dataset of job postings from Lightcast to uncover insights about salary distribution, job types, and industry codes. The goal was to build a scalable data pipeline and derive meaningful trends from real-world labor market data.
+
+I processed over 600,000 job records using PySpark on AWS EC2, structured them into relational tables using SQL ROW_NUMBER() logic, and queried employment types, median salaries, and industry breakdowns with Spark SQL. I then visualized results with Plotly and published the project on GitHub for transparency and reproducibility.
+
+**Tools Used:** PySpark, Spark SQL, Plotly, AWS EC2, GitHub  
+[View on GitHub](<[https://github.com/CassieLu0/AD688-employability-sp25A3-group2.git]>)
+
+---
+
+### 🍺 Business Simulation: Strategic Planning for a Microbrewery
+
+This project simulated the launch and long-term development of a microbrewery business in Houston. We explored how strategic decisions in operations, innovation, and HR affect profitability, efficiency, and sustainability.
+
+Our analysis included production planning, inventory optimization, cost reduction, and market positioning. I contributed to optimizing brewing schedules for high-demand products like Nut Brown Ale, conducting sensitivity analyses, and building a Cost-Benefit Analysis (CBA) for an in-house water treatment system. The simulation identified Cycle-20 as the most successful scenario, achieving over $3.5M in revenue and $1.8M in net profit, driven by strategic advertising and operational scalability.
+
+**Tools Used:** Excel, Simulation Dashboard, Cost-Benefit Analysis, Scenario Modeling
+
+---
+
+### ⚙️ Tesla Strategic Analysis Using VCA & CPA
+
+In this undergraduate management accounting project, I explored how strategic accounting tools support Tesla’s long-term mission of accelerating sustainable energy adoption.
+
+I applied Porter’s Value Chain Analysis to evaluate Tesla’s internal operations and identify opportunities for efficiency improvement. Additionally, I used Customer Profitability Analysis (CPA) to examine how Tesla can better target its most valuable market segments. The report concluded with strategic recommendations for integrating operational and market data to guide future business planning.
+
+**Tools Used:** Value Chain Analysis (VCA), Customer Profitability Analysis (CPA), Strategic Accounting
+
+---
+
+### 📉 Boohoo Group Risk Management Evaluation
+
+This report assessed Boohoo Group’s enterprise risk management using the ISO 31000 framework and the HOT/RIP model. The aim was to identify key risks impacting the company’s operations and reputation, particularly in supply chain ethics and digital disruption.
+
+I examined Boohoo’s risk appetite, mapped both objective and subjective risks, and evaluated the balance between strategic growth and operational vulnerabilities. Key recommendations included strengthening ethical sourcing practices, improving transparency, and adjusting its growth strategy to better align with risk exposure.
+
+**Tools Used:** ISO 31000, Risk Matrix, HOT/RIP Model, Strategic Audit
+
+---
+
+### 🤖 AI Ethics & Civil Society Stakeholder Report
+
+This paper analyzed how two major civil society organizations—WWF and Amnesty International—respond to emerging AI technologies such as the "Halo Chip," a hypothetical behavioral-modifying implant.
+
+I applied Jones’ ethical decision-making model, Caruana et al.'s AI ethics framework, and Mitchell’s stakeholder theory to assess each organization’s stance. While WWF cautiously supports technology aligned with environmental goals, Amnesty International emphasizes privacy and autonomy concerns. The report highlights the tension between technological advancement and ethical boundaries in AI development.
+
+**Tools Used:** Stakeholder Theory, Jones' Ethical Model, Case Study Analysis
+
+---
+
+### 🌲 Salary Prediction Using Random Forest
+
+This project focused on predicting job salaries using a machine learning model based on job posting attributes such as employment type, working hours, and duration. The goal was to explore how different job characteristics influence salary levels in the labor market.
+
+I cleaned and preprocessed the data by dummy-encoding categorical variables and scaling numeric features. After splitting the dataset into training and test sets, I trained a Random Forest model using the caret package in R. I optimized hyperparameters through GridSearchCV and evaluated the model performance with metrics such as MAE and RMSE. I also examined variable importance to identify which job-related features had the greatest influence on salary outcomes.
+
+**Tools Used:** R, randomForest, caret, GridSearchCV, Data Preprocessing

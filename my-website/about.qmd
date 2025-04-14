@@ -1,0 +1,27 @@
+---
+title: "About Me"
+---
+
+# 👋 Hi, I'm Luoyan Zhang
+
+I’m currently a graduate student in the Applied Business Analytics (ABA) program at Boston University’s Metropolitan College (BU MET). I hold a bachelor’s degree in Accounting, Finance and Management from the University of Nottingham.
+
+My academic journey has equipped me with both quantitative and strategic thinking skills, and I am now further expanding my expertise in data analytics, machine learning, and data-driven decision making. Through hands-on projects, I am learning to work with tools such as Python, R, SQL, and Spark to solve real-world business problems.
+
+I created this website as part of my Web Analytics coursework (AD 688) to showcase my technical projects, learning progress, and professional interests. I am passionate about combining analytical insights with business strategy to drive impactful solutions.
+
+---
+
+## 🌱 Interests
+
+- Applied Business Analytics  
+- Financial Analysis & Strategy  
+- Python, R, SQL, Spark  
+- Data Visualization & Dashboards  
+- Business Intelligence Tools (e.g., Tableau, Power BI)
+
+---
+
+## 📍 Location
+
+Boston, MA | Hangzhou, China

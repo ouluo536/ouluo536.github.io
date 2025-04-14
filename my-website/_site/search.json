@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "💼 Selected Projects\nBelow is a selection of academic and analytical projects I have completed at Boston University and the University of Nottingham. These projects reflect my interests in business analytics, strategic thinking, and ethical research.\n\n\n💡 Job Postings Analysis with Spark\nThis project involved analyzing a large dataset of job postings from Lightcast to uncover insights about salary distribution, job types, and industry codes. The goal was to build a scalable data pipeline and derive meaningful trends from real-world labor market data.\nI processed over 600,000 job records using PySpark on AWS EC2, structured them into relational tables using SQL ROW_NUMBER() logic, and queried employment types, median salaries, and industry breakdowns with Spark SQL. I then visualized results with Plotly and published the project on GitHub for transparency and reproducibility.\nTools Used: PySpark, Spark SQL, Plotly, AWS EC2, GitHub\nView on GitHub\n\n\n\n🍺 Business Simulation: Strategic Planning for a Microbrewery\nThis project simulated the launch and long-term development of a microbrewery business in Houston. We explored how strategic decisions in operations, innovation, and HR affect profitability, efficiency, and sustainability.\nOur analysis included production planning, inventory optimization, cost reduction, and market positioning. I contributed to optimizing brewing schedules for high-demand products like Nut Brown Ale, conducting sensitivity analyses, and building a Cost-Benefit Analysis (CBA) for an in-house water treatment system. The simulation identified Cycle-20 as the most successful scenario, achieving over $3.5M in revenue and $1.8M in net profit, driven by strategic advertising and operational scalability.\nTools Used: Excel, Simulation Dashboard, Cost-Benefit Analysis, Scenario Modeling\n\n\n\n⚙️ Tesla Strategic Analysis Using VCA & CPA\nIn this undergraduate management accounting project, I explored how strategic accounting tools support Tesla’s long-term mission of accelerating sustainable energy adoption.\nI applied Porter’s Value Chain Analysis to evaluate Tesla’s internal operations and identify opportunities for efficiency improvement. Additionally, I used Customer Profitability Analysis (CPA) to examine how Tesla can better target its most valuable market segments. The report concluded with strategic recommendations for integrating operational and market data to guide future business planning.\nTools Used: Value Chain Analysis (VCA), Customer Profitability Analysis (CPA), Strategic Accounting\n\n\n\n📉 Boohoo Group Risk Management Evaluation\nThis report assessed Boohoo Group’s enterprise risk management using the ISO 31000 framework and the HOT/RIP model. The aim was to identify key risks impacting the company’s operations and reputation, particularly in supply chain ethics and digital disruption.\nI examined Boohoo’s risk appetite, mapped both objective and subjective risks, and evaluated the balance between strategic growth and operational vulnerabilities. Key recommendations included strengthening ethical sourcing practices, improving transparency, and adjusting its growth strategy to better align with risk exposure.\nTools Used: ISO 31000, Risk Matrix, HOT/RIP Model, Strategic Audit\n\n\n\n🤖 AI Ethics & Civil Society Stakeholder Report\nThis paper analyzed how two major civil society organizations—WWF and Amnesty International—respond to emerging AI technologies such as the “Halo Chip,” a hypothetical behavioral-modifying implant.\nI applied Jones’ ethical decision-making model, Caruana et al.’s AI ethics framework, and Mitchell’s stakeholder theory to assess each organization’s stance. While WWF cautiously supports technology aligned with environmental goals, Amnesty International emphasizes privacy and autonomy concerns. The report highlights the tension between technological advancement and ethical boundaries in AI development.\nTools Used: Stakeholder Theory, Jones’ Ethical Model, Case Study Analysis\n\n\n\n🌲 Salary Prediction Using Random Forest\nThis project focused on predicting job salaries using a machine learning model based on job posting attributes such as employment type, working hours, and duration. The goal was to explore how different job characteristics influence salary levels in the labor market.\nI cleaned and preprocessed the data by dummy-encoding categorical variables and scaling numeric features. After splitting the dataset into training and test sets, I trained a Random Forest model using the caret package in R. I optimized hyperparameters through GridSearchCV and evaluated the model performance with metrics such as MAE and RMSE. I also examined variable importance to identify which job-related features had the greatest influence on salary outcomes.\nTools Used: R, randomForest, caret, GridSearchCV, Data Preprocessing"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "📄 My CV\nHere is a downloadable version of my current CV. It summarizes my academic background, professional experiences, and technical skills.\n👉 Click here to download my resume\nIf you would like to know more, feel free to reach out through my contact page."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m currently a graduate student in the Applied Business Analytics (ABA) program at Boston University’s Metropolitan College (BU MET). I hold a bachelor’s degree in Accounting, Finance and Management from the University of Nottingham.\nMy academic journey has equipped me with both quantitative and strategic thinking skills, and I am now further expanding my expertise in data analytics, machine learning, and data-driven decision making. Through hands-on projects, I am learning to work with tools such as Python, R, SQL, and Spark to solve real-world business problems.\nI created this website as part of my Web Analytics coursework (AD 688) to showcase my technical projects, learning progress, and professional interests. I am passionate about combining analytical insights with business strategy to drive impactful solutions.\n\n\n\n\nApplied Business Analytics\n\nFinancial Analysis & Strategy\n\nPython, R, SQL, Spark\n\nData Visualization & Dashboards\n\nBusiness Intelligence Tools (e.g., Tableau, Power BI)\n\n\n\n\n\nBoston, MA | Hangzhou, China"
+  },
+  {
+    "objectID": "about.html#interests",
+    "href": "about.html#interests",
+    "title": "About Me",
+    "section": "",
+    "text": "Applied Business Analytics\n\nFinancial Analysis & Strategy\n\nPython, R, SQL, Spark\n\nData Visualization & Dashboards\n\nBusiness Intelligence Tools (e.g., Tableau, Power BI)"
+  },
+  {
+    "objectID": "about.html#location",
+    "href": "about.html#location",
+    "title": "About Me",
+    "section": "",
+    "text": "Boston, MA | Hangzhou, China"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "📬 Get in Touch\nThanks for visiting my website! If you’d like to connect or learn more about my work, feel free to reach out.\n\n📧 Email: ouluo@bu.edu\n💻 GitHub: github.com/ouluo536\n\nI’m always happy to connect about opportunities in business analytics, data projects, or just to chat!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "👋 Welcome\nHi, I’m Luoyan Zhang, a graduate student at Boston University studying Applied Business Analytics. With a background in Accounting, Finance, and Management from the University of Nottingham, I am passionate about data, strategy, and the evolving landscape of business analytics.\nThis website is a collection of my academic and professional work, including selected projects, my resume, and contact information. Feel free to explore and connect with me!\n👉 Start by visiting the About Me page or view my latest Projects."
+  }
+]

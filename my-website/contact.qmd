@@ -1,0 +1,13 @@
+---
+title: "Contact"
+---
+
+# 📬 Get in Touch
+
+Thanks for visiting my website! If you'd like to connect or learn more about my work, feel free to reach out.
+
+- 📧 Email: [ouluo@bu.edu](mailto:ouluo@bu.edu)
+
+- 💻 GitHub: [github.com/ouluo536](https://github.com/ouluo536) 
+
+I’m always happy to connect about opportunities in business analytics, data projects, or just to chat!

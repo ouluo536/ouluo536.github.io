@@ -1,0 +1,17 @@
+---
+title: "Welcome to My Website"
+author: "Luoyan Zhang"
+date: "2025-1-30"
+format:
+ html:
+   theme: minty
+   toc: true
+---
+
+# 👋 Welcome
+
+Hi, I'm **Luoyan Zhang**, a graduate student at Boston University studying *Applied Business Analytics*. With a background in Accounting, Finance, and Management from the University of Nottingham, I am passionate about data, strategy, and the evolving landscape of business analytics.
+
+This website is a collection of my academic and professional work, including selected projects, my resume, and contact information. Feel free to explore and connect with me!
+
+👉 Start by visiting the [About Me](about.qmd) page or view my latest [Projects](projects.qmd).
